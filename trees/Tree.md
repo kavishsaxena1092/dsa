@@ -9,6 +9,7 @@ A tree is a datastructure similiar to a linked list but instead of each node pin
 ## Glossary
 - **root** - A node with no parents. Its the starting point of a tree. There can be atmost one root node in a tree.
 - **edge** - An edge is a link from parent to child
+- **leaf node** - A node with no children
 - **siblings** - Children of same node
 - **ancestor, descendent** - node p is called ancestor of node q if there exists a path from node q to root with node p in its path. in this case node q is called descendent of node p.  
 - **level** - set of all nodes at a given depth is called a level
