@@ -1,0 +1,8 @@
+Count pairs in an array which have at least one digit common
+Given an array of N numbers. Find out the number of pairs i and j such that i < j and Ai and Aj have atleast one digit common (For e.g. (11, 19) have 1 digit common but (36, 48) have no digit common)
+
+Examples:
+
+Input : A[] = { 10, 12, 24 }
+Output : 2
+Explanation: Two valid pairs are (10, 12) and (12, 24) which have atleast one digit common
